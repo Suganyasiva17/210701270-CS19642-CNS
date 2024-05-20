@@ -1,0 +1,4 @@
+// commands to instal ettercap
+[root@localhost security lab]# dnf install ettercap
+[root@localhost security lab]# vi /etc/ettercap/etter.conf
+[root@localhost security lab]# ettercap –G
